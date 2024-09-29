@@ -1,0 +1,1 @@
+Refactored Augier AI Proposal Generation feature using JavaScript web components. Designed code in more modular manner, allowing for better organization of code and more of an "object-oriented" structure.
